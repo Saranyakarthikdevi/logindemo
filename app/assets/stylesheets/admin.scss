@@ -1,0 +1,11 @@
+http://davidpots.com/rails/tutorial/development/git/2013/03/21/git-basics-adding-your-project-to-github.html
+
+1. Create a rails app
+Saranyakarthikdevi
+
+
+git init
+git add .
+git commit -m "First commit."
+git remote add origin https://github.com/Saranyakarthikdevi/logindemo.git
+git push -u origin master
